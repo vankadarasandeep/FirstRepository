@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BC46-D069
+
+ Directory of C:\Users\sandeep\Desktop\My Project
+
+28-10-2019  10:21 PM    <DIR>          .
+28-10-2019  10:21 PM    <DIR>          ..
+28-10-2019  06:16 PM                22 index.html
+28-10-2019  10:15 PM               459 math.txt
+28-10-2019  10:21 PM                 0 math2.txt
+28-10-2019  06:16 PM                 8 test1.txt
+               4 File(s)            489 bytes
+               2 Dir(s)  68,274,888,704 bytes free
